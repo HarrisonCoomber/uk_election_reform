@@ -1,0 +1,3 @@
+- Download and install git for windows, will give access to git bash and git GUI
+- Open git bash terminal and move to ~/projects/uk_election_reform
+- type in git init
