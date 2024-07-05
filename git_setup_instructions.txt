@@ -1,3 +1,19 @@
+source: https://www.youtube.com/watch?v=AdzKzlp66sQ&ab_channel=ProgrammingKnowledge
+
 - Download and install git for windows, will give access to git bash and git GUI
 - Open git bash terminal and move to ~/projects/uk_election_reform
 - type in git init
+- git status / commit 
+
+Github
+
+- create repo same name as folder project
+- instructions on github how to push code to repo
+
+[git clone (url)] # not needed just copied
+git add (file names)
+git commit -m "(committed message)"
+git remote add origin main (or master) (url)( https://tokenhere@github.com/user_name/repo_name.git)
+git push -u origin main (or master) 
+
+You can create a token on dev settings to create easier access from your pc if you have the token.
