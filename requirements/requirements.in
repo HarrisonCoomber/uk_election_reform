@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+shiny
+shinywidgets
+seaborn
+altair
+anywidget
+rsconnect
+rsconnect-python
+plotly
